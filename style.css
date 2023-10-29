@@ -1,0 +1,25 @@
+body {
+  background-image: url("background.jpg");
+}
+.main-img {
+  width: 40vw;
+  height: 30vh;
+}
+.recipe-container {
+  text-align: center;
+}
+.bg-body-tertiary {
+  align-items: right;
+}
+.recipe-content {
+  background-color: #fff;
+}
+.hidden {
+  display: none;
+}
+h1 {
+  background-color: #fff;
+}
+li {
+  list-style: none;
+}
